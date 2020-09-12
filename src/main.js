@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
-
+console.log('Version Ann');
 Vue.config.productionTip = false
 
 new Vue({
